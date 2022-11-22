@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/SenseiMedia.git/static/css/main.9e6c3f13.css",
+    "main.js": "/SenseiMedia.git/static/js/main.48c0d373.js",
+    "static/media/google-logo.svg": "/SenseiMedia.git/static/media/google-logo.931ecb8d28b823ab7c2669fdeef124ed.svg",
+    "static/media/yandex-logo.svg": "/SenseiMedia.git/static/media/yandex-logo.7273ad7e15b0814bc254aafd9c7a4c13.svg",
+    "static/media/form-pic.png": "/SenseiMedia.git/static/media/form-pic.da9aec286c9ec339c1e4.png",
+    "static/media/Trendyol_logo.png": "/SenseiMedia.git/static/media/Trendyol_logo.0185cf217031163dae7e.png",
+    "static/media/intro-pic.png": "/SenseiMedia.git/static/media/intro-pic.61322ef60164f64e1167.png",
+    "static/media/amazon-logo.png": "/SenseiMedia.git/static/media/amazon-logo.060490bca0ad6856491a.png",
+    "static/media/logo-pic.png": "/SenseiMedia.git/static/media/logo-pic.770abb39cd55cf0ffd62.png",
+    "static/media/alibaba-logo.svg": "/SenseiMedia.git/static/media/alibaba-logo.03a0ead5e19c16078335a23ab7b09e6c.svg",
+    "static/media/macys-logo.svg": "/SenseiMedia.git/static/media/macys-logo.e75600959bd0749cd5cddfcd466393fe.svg",
+    "static/media/vector-done.svg": "/SenseiMedia.git/static/media/vector-done.0544336a2e770d04123fdf0a2488ab1d.svg",
+    "static/media/menu-icon.svg": "/SenseiMedia.git/static/media/menu-icon.94a1461b4d2b6e25cf04fabfd53beb73.svg",
+    "static/media/vector-right.svg": "/SenseiMedia.git/static/media/vector-right.43b1f1ecfaf7050a72550b6e9f247658.svg",
+    "static/media/vector-left.svg": "/SenseiMedia.git/static/media/vector-left.9dd38db8fb3381a58f7aaa8c27270eb5.svg",
+    "index.html": "/SenseiMedia.git/index.html",
+    "static/media/line.svg": "/SenseiMedia.git/static/media/line.e540286d8a8355a12766c56bbc3b5b2b.svg",
+    "main.9e6c3f13.css.map": "/SenseiMedia.git/static/css/main.9e6c3f13.css.map",
+    "main.48c0d373.js.map": "/SenseiMedia.git/static/js/main.48c0d373.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e6c3f13.css",
+    "static/js/main.48c0d373.js"
+  ]
+}
