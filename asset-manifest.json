@@ -1,27 +1,21 @@
 {
   "files": {
-    "main.css": "/SenseiMedia/static/css/main.9e6c3f13.css",
-    "main.js": "/SenseiMedia/static/js/main.a16fd87b.js",
+    "main.css": "/SenseiMedia/static/css/main.30fdfcfb.css",
+    "main.js": "/SenseiMedia/static/js/main.a79bc4b0.js",
     "static/media/google-logo.svg": "/SenseiMedia/static/media/google-logo.2f9aa234d512c1928388c1cdf77add65.svg",
     "static/media/yandex-logo.svg": "/SenseiMedia/static/media/yandex-logo.3219116d0346e29df37d5b76a1611412.svg",
     "static/media/form-pic.png": "/SenseiMedia/static/media/form-pic.da9aec286c9ec339c1e4.png",
-    "static/media/Trendyol_logo.png": "/SenseiMedia/static/media/Trendyol_logo.0185cf217031163dae7e.png",
     "static/media/intro-pic.png": "/SenseiMedia/static/media/intro-pic.61322ef60164f64e1167.png",
-    "static/media/amazon-logo.png": "/SenseiMedia/static/media/amazon-logo.060490bca0ad6856491a.png",
     "static/media/logo-pic.png": "/SenseiMedia/static/media/logo-pic.770abb39cd55cf0ffd62.png",
     "static/media/alibaba-logo.svg": "/SenseiMedia/static/media/alibaba-logo.c41dd3e799ab78b64ad6fa763eca7069.svg",
     "static/media/macys-logo.svg": "/SenseiMedia/static/media/macys-logo.caa43ba70932dc08ad4b2e5d05942019.svg",
-    "static/media/vector-done.svg": "/SenseiMedia/static/media/vector-done.f5aaeea7c91481e6ea1bdca6fdb9fc15.svg",
     "static/media/menu-icon.svg": "/SenseiMedia/static/media/menu-icon.94a1461b4d2b6e25cf04fabfd53beb73.svg",
-    "static/media/vector-right.svg": "/SenseiMedia/static/media/vector-right.1049cb8bfce7b467ec47491105e3a2dd.svg",
-    "static/media/vector-left.svg": "/SenseiMedia/static/media/vector-left.f2a02ed35108c63ac2772068459fa148.svg",
     "index.html": "/SenseiMedia/index.html",
-    "static/media/line.svg": "/SenseiMedia/static/media/line.251650b2973803e75e068fdd16d24466.svg",
-    "main.9e6c3f13.css.map": "/SenseiMedia/static/css/main.9e6c3f13.css.map",
-    "main.a16fd87b.js.map": "/SenseiMedia/static/js/main.a16fd87b.js.map"
+    "main.30fdfcfb.css.map": "/SenseiMedia/static/css/main.30fdfcfb.css.map",
+    "main.a79bc4b0.js.map": "/SenseiMedia/static/js/main.a79bc4b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e6c3f13.css",
-    "static/js/main.a16fd87b.js"
+    "static/css/main.30fdfcfb.css",
+    "static/js/main.a79bc4b0.js"
   ]
 }
