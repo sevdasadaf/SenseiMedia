@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SenseiMedia/static/css/main.30fdfcfb.css",
-    "main.js": "/SenseiMedia/static/js/main.a79bc4b0.js",
+    "main.js": "/SenseiMedia/static/js/main.179b7f49.js",
     "static/media/google-logo.svg": "/SenseiMedia/static/media/google-logo.2f9aa234d512c1928388c1cdf77add65.svg",
     "static/media/yandex-logo.svg": "/SenseiMedia/static/media/yandex-logo.3219116d0346e29df37d5b76a1611412.svg",
     "static/media/form-pic.png": "/SenseiMedia/static/media/form-pic.da9aec286c9ec339c1e4.png",
@@ -12,10 +12,10 @@
     "static/media/menu-icon.svg": "/SenseiMedia/static/media/menu-icon.94a1461b4d2b6e25cf04fabfd53beb73.svg",
     "index.html": "/SenseiMedia/index.html",
     "main.30fdfcfb.css.map": "/SenseiMedia/static/css/main.30fdfcfb.css.map",
-    "main.a79bc4b0.js.map": "/SenseiMedia/static/js/main.a79bc4b0.js.map"
+    "main.179b7f49.js.map": "/SenseiMedia/static/js/main.179b7f49.js.map"
   },
   "entrypoints": [
     "static/css/main.30fdfcfb.css",
-    "static/js/main.a79bc4b0.js"
+    "static/js/main.179b7f49.js"
   ]
 }
